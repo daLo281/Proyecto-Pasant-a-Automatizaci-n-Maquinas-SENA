@@ -4,6 +4,7 @@ para establecer la comunicación entre arduino y plc para obtener la señal de l
 
 En la programación prodemos observar cómo leemos y enviamos los datos de cada uno de los sensores mediante un código de registro, adicionalmente le hemos dado al arduino una dirección IP y una dirección Fisica MAC para que pueda conectarse a modbus a través del módulo Ethernet ENC28J60 
 
+se cargan códigos de programación correspondientes a la lectura de sensores para la planta de extracción de aceites con el nombre lectura de sensores.ino , la lectura de sensores de la planta de extracción de harina de achira con el nombre lectura de sensores PA. ino , el código para enviar y recibir datos con el módulo mcp2515 BUSCAN y todas las librerias correspondientes 
 
 REFERENCES
 
